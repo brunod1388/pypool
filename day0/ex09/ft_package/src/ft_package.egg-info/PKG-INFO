@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ft-package
+Version: 0.0.1
+Summary: A sample test package
+Author-email: bgoncalv <bgoncalv@42lausanne.ch>
+Project-URL: Homepage, https://github.com/bgoncalv/ft_package
+Description-Content-Type: text/markdown
+License-File: LICENSE

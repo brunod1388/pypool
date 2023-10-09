@@ -1,0 +1,10 @@
+LICENSE
+README.MD
+README.md
+pyproject.toml
+src/__init__.py
+src/src.py
+src/ft_package.egg-info/PKG-INFO
+src/ft_package.egg-info/SOURCES.txt
+src/ft_package.egg-info/dependency_links.txt
+src/ft_package.egg-info/top_level.txt
